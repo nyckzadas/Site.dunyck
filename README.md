@@ -42,8 +42,8 @@
     <fieldset style="background-color: black; color: white;">
       <legend style="color: white;">Responde ae kkkk</legend>
 <h3> ai, escreve o nome que tu acha mais manero</h3><br>
-  <input class="ss" type="text" placeholder="nome manero">           <button style="background-color: white;">enviar</button>
-      
+  <input class="ss" type="text" placeholder="nome manero">
+      <button style="background-color: white;">enviar</button>
     </fieldset>
     </form>                       
 
@@ -76,7 +76,6 @@
   <h2>só lembrando que por enquanto não consigo receber suas respostas, assim como voce também não consegue envia-las</h2>
 
   <h3 style="padding-left: 500px;"><em> 'fazido' por Nycolas</em></h3>
-
   
 </body>
 </html>

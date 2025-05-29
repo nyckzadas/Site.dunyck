@@ -1,0 +1,23 @@
+h1{
+  padding-left: 150px;
+  padding-right: 150px;
+  border: 110px;
+  
+}
+body{
+  background-color: lightblue;
+}
+h5{
+  padding-left: 360px;
+  padding-top: 700px;
+}
+img{
+  border-radius: 100px;
+}
+.ss{
+ position: relative; left: 200px;
+}
+
+fieldset{
+  background-color: white;
+}

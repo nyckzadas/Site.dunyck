@@ -5,14 +5,14 @@
   <h1 style="border-radius: 50px; background-color: red; display: inline-block; "><em>Título qualquer ae</em></h1>
 </head>
 <body>
-  <div>
+  
 <h4>3 ano arrumando esse título ai😡</h4>
-<p><h4>então... isso aqui é uma reavaliação e avaliação ao mesmo tempo. ou seja, to revendo o que eu sei e usando o que aprendi</h4></p>
+<h4>então... isso aqui é uma reavaliação e avaliação ao mesmo tempo. ou seja, to revendo o que eu sei e usando o que aprendi</h4>
     
 <h4>como eu sempre dizia:
 
 <h4><em> "quanto mais, melhor."</em></h4>
-  </div>
+  
   <br>
   <br>
 
@@ -40,12 +40,13 @@
 
   <form>
     <fieldset style="background-color: black; color: white;">
-      <legend style="color: gray;">Responde ae kkkk</legend>
+      <legend style="color: white;">Responde ae kkkk</legend>
 <h3> ai, escreve o nome que tu acha mais manero</h3><br>
-  <input class="ss" type="text" placeholder="nome manero">                                             
-<button style="background-color: white;">enviar</button>
+  <input class="ss" type="text" placeholder="nome manero">           <button style="background-color: white;">enviar</button>
+      
     </fieldset>
-    </form>
+    </form>                       
+
 <br>
 <br>
 

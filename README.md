@@ -2,10 +2,10 @@
 <html>
 <head>
   <link rel="stylesheet" href="style.css">
-  <h1 style="border-radius: 50px; background-color: red; display: inline-block; "><em>Título qualquer ae</em></h1>
+  
 </head>
 <body>
-  
+  <h1 style="border-radius: 50px; background-color: red; display: inline-block; "><em>Título qualquer ae</em></h1>
 <h4>3 ano arrumando esse título ai😡</h4>
 <h4>então... isso aqui é uma reavaliação e avaliação ao mesmo tempo. ou seja, to revendo o que eu sei e usando o que aprendi</h4>
     

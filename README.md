@@ -39,8 +39,8 @@
   <br>
 
   <form>
-    <fieldset style="background-color: black; color: white;">
-      <legend style="color: white;">Responde ae kkkk</legend>
+    <fieldset>
+      <legend>Responde ae kkkk</legend>
 <h3> ai, escreve o nome que tu acha mais manero</h3><br>
   <input class="ss" type="text" placeholder="nome manero">
     </fieldset>

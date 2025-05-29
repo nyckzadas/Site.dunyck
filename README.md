@@ -41,7 +41,7 @@
     <fieldset>
       <legend>Responde ae kkkk</legend>
 <h3> ai, escreve o nome que tu acha mais manero<br>
-  <input class="ss"placeholder="nome manero"></h3>
+  <input class="ss" placeholder="nome manero"></h3>
 <button>enviar</button>
     </fieldset>
     </form>

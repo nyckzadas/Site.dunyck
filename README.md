@@ -7,7 +7,7 @@
 <body>
   <div>
 <h4>3 ano arrumando esse título ai😡</h4>
-<p><h4>então... isso aqui é uma reavaliação e avaliação ao mesmo tempo. ou seja, to revendo o que eu sei e usando o que aprendi</h4</p>
+<p><h4>então... isso aqui é uma reavaliação e avaliação ao mesmo tempo. ou seja, to revendo o que eu sei e usando o que aprendi</h4></p>
     
 <h4>como eu sempre dizia:
 
@@ -39,11 +39,11 @@
   <br>
 
   <form>
-    <fieldset style="background-color: black;">
-      <legend>Responde ae kkkk</legend>
+    <fieldset style="background-color: black; color: white;">
+      <legend style="color: gray;">Responde ae kkkk</legend>
 <h3> ai, escreve o nome que tu acha mais manero</h3><br>
   <input class="ss" type="text" placeholder="nome manero">                                             
-<button>enviar</button>
+<button style="background-color: white;">enviar</button>
     </fieldset>
     </form>
 <br>

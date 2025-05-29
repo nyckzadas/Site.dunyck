@@ -15,10 +15,10 @@
   <br>
   <br>
 
-  <figure>
- <img src="https://i.imgur.com/hXyacXH.jpeg" alt="Sócrates" <h6><em>Sócrates</em>  
-   pros usuários de QI negativo.</h6>
-  </figure>
+  
+ <img src="https://i.imgur.com/hXyacXH.jpeg" alt="Sócrates" <h6><em>Sócrates</em>
+   pros usuários de QI negativo.</h6>>
+  
 
     
   <details>

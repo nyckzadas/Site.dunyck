@@ -1,7 +1,6 @@
-<!doctype html>
+
 <html>
 <head>
-  <title>Titulo Exemplo</title>
   <link rel="stylesheet" href="style.css">
   <h1 style="border-radius: 50px; background-color: red; display: inline-block; "><em>Título qualquer ae</em></h1>
 </head>

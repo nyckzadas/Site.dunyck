@@ -43,6 +43,7 @@
       <legend>Responde ae kkkk</legend>
 <h3> ai, escreve o nome que tu acha mais manero</h3><br>
   <input class="ss" type="text" placeholder="nome manero">
+      <button>enviar</button>
     </fieldset>
     </form>                       
 
@@ -53,6 +54,7 @@
   <fieldset>
 <h3>escreve seu nome ai <br>
   <input class="ss" placeholder="seu nome"> </h3>
+    <button>enviar</button>
   </fieldset>
 </form>
   <br>
@@ -62,6 +64,7 @@
   <form action="https://formspree.io/f/xldnrewz" method="post">
   <h3>se você pudesse escolher em que data voce nasceria, em qual seria?<br>
     <input type="date"></h3>
+    <button>enviar</button>
   </form>
     
   <h3> tá curtindo? <br>
@@ -70,7 +73,7 @@
   
 <br>
 <br>
-  <button style="border-radius: 15px; background-color: lightblue; ">enviar tudo</button>
+  
 
   <h3 style="padding-left: 500px;"><em> 'fazido' por Nycolas</em></h3>
   

@@ -7,11 +7,11 @@
 <body>
   <div>
 <h4>3 ano arrumando esse título ai😡</h4>
-<p></p><h4>então... isso aqui é uma reavaliação e avaliação ao mesmo tempo. ou seja, to revendo o que eu sei e usando o que aprendi</h4</p>
+<p><h4>então... isso aqui é uma reavaliação e avaliação ao mesmo tempo. ou seja, to revendo o que eu sei e usando o que aprendi</h4</p>
     
 <h4>como eu sempre dizia:
 
-</h4><em> "quanto mais, melhor."</em></h4>
+<h4><em> "quanto mais, melhor."</em></h4>
   </div>
   <br>
   <br>

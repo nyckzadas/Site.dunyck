@@ -45,8 +45,7 @@
   <input class="ss" name="nome_manero" type="text" placeholder="nome manero">
       <button type="submit">enviar</button>
     </fieldset>
-    </form>                       
-
+    </form>                     
 <br>
 <br>
 

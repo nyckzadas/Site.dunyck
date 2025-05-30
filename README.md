@@ -51,7 +51,7 @@
   <fieldset>
 <h3>escreve seu nome ai <br>
   <input name="nome_pessoa" class="ss" placeholder="seu nome"> </h3>
-    <button type="submit">enviar ambos</button>
+    
   </fieldset>
 
   <br>
@@ -61,8 +61,9 @@
   
   <h3>se você pudesse escolher em que data voce nasceria, em qual seria?<br>
     <input name="data" type="date"></h3>
-    <button type="submit">enviar</button>
-  </form>
+    <button type="submit">enviar tudo</button>
+    </form>
+  
     
   <h3> tá curtindo? <br>
 <input type="range"> </h3>

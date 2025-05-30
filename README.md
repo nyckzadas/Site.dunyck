@@ -40,7 +40,7 @@
 
   <form action="https://formspree.io/f/xldnrewz" method="post">
     <fieldset>
-<h3> ai, escreve o nome que tu acha mais manero</h3><br>
+<h3> ai, escreve o nome que tu acha mais manero</h3>
   <input class="ss" name="nome_manero" type="text" placeholder="nome manero">
       <button type="submit">enviar</button>
     </fieldset>

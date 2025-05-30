@@ -40,7 +40,6 @@
 
   <form action="https://formspree.io/f/xldnrewz" method="post">
     <fieldset>
-      <legend>Responde ae kkkk</legend>
 <h3> ai, escreve o nome que tu acha mais manero</h3><br>
   <input class="ss" name="nome_manero" type="text" placeholder="nome manero">
       <button type="submit">enviar</button>
